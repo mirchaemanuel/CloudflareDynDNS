@@ -1,0 +1,5 @@
+# edit with your data and rename in config.toml
+public_ip_service = "https://api.ipify.org"
+cloudflare_api_key = "your_cloudflare_api_key"
+zone_id = "your_zone_id"
+dns_name = "r0.a80.it"
